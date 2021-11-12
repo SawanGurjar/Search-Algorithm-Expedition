@@ -47,4 +47,4 @@ To run this project:<br>
 
 
 **Link to access demo:**
-	https://drive.google.com/file/d/1EkZflrl5oSxOxsrvckjXXAQNKx28x28q/view?usp=sharing
+	https://drive.google.com/drive/folders/1QjDqkL9semF5GnBr0A_x8glGtCRmA1vm?usp=sharing
