@@ -27,12 +27,8 @@ Import packages:
 - To install simanneal:<br>
 	`$ pip install simanneal`
 
-How to use
-----------
-To run this project:<br>
-	`$ python3 A_main.py`
-
-### Library used: 
+Library used
+------------
 - NumPy
 - matplotlib
 - time
@@ -40,10 +36,15 @@ To run this project:<br>
 - maths
 - random
 
+How to use
+----------
+To run this project:<br>
+	`$ python3 A_main.py`
+
 *Code built-in Jupyter Notebook and Spyder, python version - 3.7.4*
 
 **NOTE:** Please be patient with genetic algorithm (It could take sometime as the result depends on the number of generations).
 
 
-Link to access demo:
+**Link to access demo:**
 	https://drive.google.com/drive/folders/1oOnrxcyzFX0JSoiSeziQKaiGGSAEI7H4?usp=sharing
