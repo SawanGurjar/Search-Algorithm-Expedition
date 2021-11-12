@@ -1,11 +1,11 @@
-# Search Algorithm Expedition (Team VALORANT)
+# Search Algorithm Expedition
 
 Project
 -------
 
 Searching is the universal technique of problem-solving in AI. The search algorithms help you search for a particular position in single-player games such as tile games, Sudoku, crossword, etc.
 
-This project aims to explore the search algorithms and compare them by implementing them in a single-player game like Sudoku. We learned new search algorithms from theoretical and practical perspectives through the implementation of the project. We also learned the properties, features, and limitations of each algorithm implemented.
+This project by Team VALORANT aims to explore the search algorithms and compare them by implementing them in a single-player game like Sudoku. We learned new search algorithms from theoretical and practical perspectives through the implementation of the project. We also learned the properties, features, and limitations of each algorithm implemented.
 
 We create a Sudoku from scratch and then solve using different algorithms to compare their results and performance. We also developed GUI to show algorithms’ working which helps others understand more clearly. Our final goal is to compare the algorithms on the following metrics:
 	- Space Complexity: The maximum number of nodes that are stored in memory.
